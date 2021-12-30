@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+}
+
+.text{
+    color: aliceblue;
+    text-align: center;
+    margin: 330px 40px;
+    font-size: 16px;
+}
